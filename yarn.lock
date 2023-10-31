@@ -12598,12 +12598,11 @@ __metadata:
   linkType: hard
 
 "posthog-js@npm:^1.45.1":
-  version: 1.50.4
-  resolution: "posthog-js@npm:1.50.4"
+  version: 1.87.6
+  resolution: "posthog-js@npm:1.87.6"
   dependencies:
     fflate: ^0.4.1
-    rrweb-snapshot: ^1.1.14
-  checksum: a0c3bf3f424f74b35be6bb85d13396d436a78d5d4d763acb37c20394e611705860964830a0e53621ec9295a4f52f5d31e57945072b4f45ad3211853efcaacb62
+  checksum: 7ae40c5acda6d25674c54242348d7bbd86f1b9e818e37e231edc9d65585f3a2a93100cf8bff07f2523135847fa0e12f6d562f70dd684c0e229ccf3327d2d10e6
   languageName: node
   linkType: hard
 
@@ -13623,13 +13622,6 @@ __metadata:
     typescript: ^4.9.5
   languageName: unknown
   linkType: soft
-
-"rrweb-snapshot@npm:^1.1.14":
-  version: 1.1.14
-  resolution: "rrweb-snapshot@npm:1.1.14"
-  checksum: 2e9a30233b542824bbca46af5588d1d7c909efafa00b38fb79d59637af17ec0f3fbe60ed37c4195448804a22aea0f47531da25a42af6ac9dc6281c3c6e5693db
-  languageName: node
-  linkType: hard
 
 "rtl-detect@npm:^1.0.4":
   version: 1.0.4
